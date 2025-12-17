@@ -1,2 +1,1 @@
-# HR_Analytics_Dashboard
-Tableau
+# HR Analytics Dashboard ( Tableau ) 
