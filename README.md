@@ -1,5 +1,8 @@
 # HR Analytics Dashboard ( Tableau ) 
 
+## Dashboard
+![Dashboard](https://github.com/KumarBoste/HR_Analytics_Dashboard/blob/main/Tableau%20Dashboard/HR%20Analytics%20Dashboard.png)
+
 ## Project Objective
 The primary objective of the HR Analytics Dashboard is to analyze employee-related data to help HR teams make data-driven workforce decisions.
 This dashboard focuses on understanding employee attrition, workforce demographics, job satisfaction, performance trends, and departmental distribution to improve employee retention, productivity, and organizational efficiency.
@@ -51,9 +54,6 @@ The following analytical methods are used in the project:
 - Attrition is more prominent in early career stages
 - Lower salary slabs show higher employee turnover
 - Male/Female attrition varies across departments and roles
-
-## Dashboard
-![Dashboard](https://github.com/KumarBoste/HR_Analytics_Dashboard/blob/main/Tableau%20Dashboard/HR%20Analytics%20Dashboard.png)
 
 ## Best Solutions & Recommendations
 1. Targeted Retention Strategies
