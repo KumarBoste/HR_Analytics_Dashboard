@@ -68,7 +68,7 @@ The following analytical methods are used in the project:
 4. Career Growth Planning
 - Clear promotion paths and skill development initiatives
 
-5.Early Attrition Monitoring
+5. Early Attrition Monitoring
 - Identify at-risk employees within first few years of tenure
 
 6. Data-Driven HR Policies
