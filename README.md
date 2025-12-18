@@ -1,6 +1,4 @@
-# HR Analytics Dashboard ( Tableau ) 
-
-## Dashboard
+# HR Analytics Dashboard ( Tableau Project ) 
 ![Dashboard](https://github.com/KumarBoste/HR_Analytics_Dashboard/blob/main/Tableau%20Dashboard/HR%20Analytics%20Dashboard.png)
 
 ## Project Objective
